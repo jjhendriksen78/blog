@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `I4IT Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Joost-Jan Hendriksen`,
+      summary: `who lives and works in The Netherlands building useful things.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `A portfolio/blog about useful tech subjects.`,
+    siteUrl: `https://about.joost-jan.nl/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `joost-jan-hendriksen`,
     },
   },
   plugins: [
